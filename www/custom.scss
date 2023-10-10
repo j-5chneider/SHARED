@@ -40,6 +40,7 @@ slides > slide:not(.nobackground):after {
   content: '';
 }
 
+/*
 .title-slide {
   background-image: url("title-bg.jpg");
   background-size: cover;
@@ -66,7 +67,7 @@ code {
   padding-left: 3pt;
   padding-right: 3pt;
 }
-
+*/
 
 
 /* logo title slide */
@@ -146,16 +147,15 @@ a:active {
   /*display: flex;
   align-content: space-between;
   width: 100% !important;*/
-  border: 1px solid red;
-  justify-content: center;
+  justify-content: space-between;
   display: flex;
 }
 
 .active-box {
   background: #F29400; 
-  width: 25% !important; 
-  height: 60%; 
-  border-radius: 5px;
+  width: 30% !important; 
+  height: 72%; 
+  border-radius: 10px;
   padding: 5px;
   color: white;
   font-size: 1.2em;
@@ -170,15 +170,38 @@ a:active {
 .inactive-box {
   background: #646567; 
   width: 15% !important; 
-  height: 45%; 
+  height: 35%; 
   border-radius: 10px;
   padding: 5px;
   color: white;
-  font-size: 0.8em;
+  font-size: 0.5em;
   margin: 2%;
-  margin-top: 5%;
+  margin-top: 8%;
 }
 
 .inactive-box > p > strong {
   color: white !important;
 }
+
+.active-text {
+  /*background-color: white;
+  color: #6DA5D5;*/
+  background-color: black;
+  color: white !important;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+
+.splash-slide-text {
+  background-color: black;
+  color: white !important;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.border-right{
+  border-right: 2px solid black;
+  
+} 
