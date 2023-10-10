@@ -54,9 +54,8 @@ Sondertatbestand
 Leibniz Gemeinschaft
 :::
 ::: {.column .border-right width="30%"}
-__Verortung__  
-Erweiterungsvorhaben VerbundFDB  
-  
+__Fokus & Verortung__  
+(Unterrichts-)videodaten    
 Personell: Abteilung LLiB
 :::
 ::: {.column width="30%"}
