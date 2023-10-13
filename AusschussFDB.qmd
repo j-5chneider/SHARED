@@ -1,6 +1,6 @@
 ---
-title: "Kooperationsstelle<br />SHARED"
-subtitle: "Sharing and Reusing Data<br />(Video)"
+title: "ShaReD"
+subtitle: "Sharing and Reusing Data<br />(Video)<br /><br />_Ausschuss FDB_"
 title-slide-attributes:
   data-background-image: www/title-bg3.png
   data-background-size: cover
@@ -12,7 +12,7 @@ format:
   revealjs:
       theme: [white, www/custom.scss] # sky default
       logo: www/dipf-logo.png
-      footer: "Slides: [bit.ly/earli23-v](https://bit.ly/earli23-v) (view) | [bit.ly/earli23-d](https://bit.ly/earli23-d) (download from github)"
+      footer: "Slides: [bit.ly/ausschuss-v](https://bit.ly/ausschuss-v) (view) | [bit.ly/ausschuss-d](https://bit.ly/ausschuss-d) (download from github)"
       smaller: true
       scrollable: true
       transition: fade
@@ -37,33 +37,9 @@ knitr::opts_chunk$set(echo = FALSE,
 
 
 library(fontawesome)
-# library(kableExtra)
 ```
 
-## Projekt
-\
-\
-\
-\
-\
 
-:::: {.columns .text-center}
-::: {.column .border-right width="30%"}
-__Finanzierung__  
-Sondertatbestand  
-Leibniz Gemeinschaft
-:::
-::: {.column .border-right width="30%"}
-__Fokus & Verortung__  
-(Unterrichts-)videodaten    
-Personell: Abteilung LLiB
-:::
-::: {.column width="30%"}
-__Laufzeit__  
-`r fa("star-of-life")` September 2022  
-`r fa("flag-checkered")` September 2027
-:::
-::::
 
 ## Überblick
 \
@@ -499,119 +475,50 @@ im "research ecosystem"
 
 
 
-## Podcastfolge
+## Weiteres
 
 :::: columns
-::: {.column .active-box}
-**SONDIERUNG**
-
--   [Welches Angebot an Videos gibt es?]{.active-text}<br /><br />
--   [Welche Ressourcen gibt es?]{.active-text} <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
-:::
-
-::: {.column width="10%"}
-:::
-
 ::: {.column width="30%"}
 \
-\
 
+__Podcastbeitrag__  
+  
 ![](www/datenliebe.jpg){width="100%"}  
 _Folge zu Unterrichtsvideos_ 
 [`r fa("youtube")`](https://www.youtube.com/watch?v=DWbDwhRkmNE) [`r fa("spotify")`](https://open.spotify.com/episode/7cFOS7o8v6S2edcJ9X69EN?si=_rqbo5pWSoe0jzCIQDQOQw)  
 
 :::
-::::
 
-
-## Konferenzbeitrag
-
-:::: columns
-::: {.column .active-box}
-**SONDIERUNG**
-
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es?<br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   [Kooperation zu ähnlichen Projekten]{.active-text}
+::: {.column width="5%"}
 :::
 
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
+::: {.column width="30%"}
 \
 
 __GEBF 2024__
 
 - Beitrag "Offenes Format"
-- _"Hier  findest Du Unterrichtsvideos für Deine Studie: 5 Anlaufstellen und ihre mehr als 2.500 Videos zur Nachnutzung"_
-- FDZs / Plattformen / Projekte
-  - FDZ Bildung (Thomas Lösch)
-  - Unterrichtonline.org (Irini Körber)
-  - Inklusion gemeinsam gestalten (Daniel Prantl)
-  - LeHet (Hannes Großhauser)
-  - Fallarchiv HILDE (Stephan Nölke)
+- _"Hier  finden Sie Unterrichtsvideos für Ihre Studie: 4 Anlaufstellen und ihre mehr als 2.800 Videos zur Nachnutzung"_
 
-:::
-::::
-
-
-## Konferenzbeitrag
-
-:::: columns
-::: {.column .active-box}
-**SONDIERUNG**
-
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es?<br /><br />
--   [Möglichkeiten & Grenzen im Ökosystem]{.active-text}<br /><br />
--   Kooperation zu ähnlichen Projekten
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-\
-
-__GEBF 2024__
-
-- Beitrag "Offenes Format" (Bayer, Schneider & Baier-Mosch)
-- _“Hier sind meine Daten - also nutzt sie doch!” Wie können wir Forschungsdaten sinnvoll  teilen und nachnutzen?_
-- Panel Discussion: Diskutierende
-  - Henrik Bellhäuser
-  - Johannes Hartig
-  - Marlin Houben
-  - Falk Radisch
-:::
-::::
-
-
-## Konferenzbeitrag
-
-:::: columns
-::: {.column .active-box}
-**SONDIERUNG**
-
--   [Welches Angebot an Videos gibt es?]{.active-text}<br /><br />
--   [Welche Ressourcen gibt es?]{.active-text}<br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
 \
 
 __GEBF 2024__
 
 - Beitrag in Symposium (Schreyer)
-- _Arbeitsschritte und hilfreiche Ressourcen für die Bereitstellung oder Nachnutzung von Unterrichtsvideos_
+- _Hilfreiche Ressourcen und Arbeitsschritte für die Bereitstellung oder Nachnutzung von Unterrichtsvideos_
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+\
+
+__Datenakquise__
+
+* Erweiterung des Angebots auf FDZ Bildung
+* Kontakt zu mehreren Projekten läuft schleppend
+
 :::
 ::::
 
