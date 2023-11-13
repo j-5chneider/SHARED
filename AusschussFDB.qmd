@@ -6,7 +6,7 @@ title-slide-attributes:
   data-background-size: cover
   #data-background-opacity: "0.3"
 author: "<b>Jürgen Schneider</b>"
-date: last-modified # today
+date: "16. Oct 2023" # today
 date-format: "DD MMMM YYYY"
 format: 
   revealjs:
@@ -243,86 +243,6 @@ im "research ecosystem"
 
 
 
-## Barriers and facilitators to sharing and reusing
-
-\
-\
-
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
-
-## Barriers and facilitators to sharing and reusing
-
-\
-\
-
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
-
-\
-\
-
-::: columns
-::: {.column width="30%"}
-*Teilen:*
-
--   **36** Publikationen zur Analyse von Unterrichtsvideos in 2022<br /><br />
--   in **13** findet sich ein "data statement" (alle in Journals mit entsprechender Verpflichtung)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-<br />
-
--   in **0** findet sich ein "data statement", wenn dies vom Journal **nicht verpflichtend** ist<br /><br />
--   Unterrichtsvideos aus **1** Publikation wurden geteilt (eigene Webseite, nicht FDZ)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-:::
-:::
-
-## Barriers and facilitators to sharing and reusing
-
-\
-\
-
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
-
-\
-\
-
-::: columns
-::: {.column width="30%"}
-*Teilen:*
-
--   **36** Publikationen zur Analyse von Unterrichtsvideos in 2022<br /><br />
--   in **13** findet sich ein "data statement" (alle in Journals mit entsprechender Verpflichtung)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-<br />
-
--   in **0** findet sich ein "data statement", wenn dies vom Journal **nicht verpflichtend** ist<br /><br />
--   Unterrichtsvideos aus **1** Publikation wurden geteilt (eigene Webseite, nicht FDZ)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-*Nachnutzen (FDZ Bildung):*
-
--   Zw. 2016-2022: **8** Nachnutzungsfälle erfasst (ohne Studierende)
--   Erfassung über Meldung und google alerts **unterschätzt** Erfassung (deckt ca. 75% ab) [@Daniel.etal.2023]
-:::
-:::
 
 
 ## Barriers and facilitators to sharing and reusing
@@ -530,9 +450,53 @@ __Datenakquise__
 
 
 ## Nächste Schritte
+\
+\
 
-* Handreichung zu "Archivieren oder Bereitstellen?"<br /><br />
+* Handreichung zu "Archivieren oder Bereitstellen?"<br /><br /><br /><br />
 * Pilotprojekte: Automatisierte Auswertung von Unterrichtsvideos
 
 
 ## References
+
+<div id="refs"></div>
+
+
+## Barriers and facilitators to sharing and reusing
+
+\
+\
+
+> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+
+\
+\
+
+::: columns
+::: {.column width="30%"}
+*Teilen:*
+
+-   **36** Publikationen zur Analyse von Unterrichtsvideos in 2022<br /><br />
+-   in **13** findet sich ein "data statement" (alle in Journals mit entsprechender Verpflichtung)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+<br />
+
+-   in **0** findet sich ein "data statement", wenn dies vom Journal **nicht verpflichtend** ist<br /><br />
+-   Unterrichtsvideos aus **1** Publikation wurden geteilt (eigene Webseite, nicht FDZ)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+*Nachnutzen (FDZ Bildung):*
+
+-   Zw. 2016-2022: **8** Publikationen und Berichte erfasst (ohne Studierende & Lehre)
+-   Erfassung über Meldung und google alerts **unterschätzt** Erfassung (deckt ca. 75% ab) [@Daniel.etal.2023]
+:::
+:::
