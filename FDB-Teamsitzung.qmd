@@ -1,6 +1,6 @@
 ---
 title: "ShaReD"
-subtitle: "Sharing and Reusing Data<br />(Video)<br /><br />_Ausschuss FDB_"
+subtitle: "Sharing and Reusing Data<br />(Video)<br /><br />_FDB Teamsitzung_"
 title-slide-attributes:
   data-background-image: www/title-bg3.png
   data-background-size: cover
