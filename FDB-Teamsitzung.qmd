@@ -6,13 +6,13 @@ title-slide-attributes:
   data-background-size: cover
   #data-background-opacity: "0.3"
 author: "<b>Jürgen Schneider</b>"
-date: "16. Oct 2023" # today
+date: "14. Nov 2023" # today
 date-format: "DD MMMM YYYY"
 format: 
   revealjs:
       theme: [white, www/custom.scss] # sky default
       logo: www/dipf-logo.png
-      footer: "Slides: [bit.ly/ausschuss-v](https://bit.ly/ausschuss-v) (view) | [bit.ly/ausschuss-d](https://bit.ly/ausschuss-d) (download from github)"
+      footer: "Slides: [bit.ly/shared-slides](https://bit.ly/shared-slides) (view)"
       smaller: true
       scrollable: true
       transition: fade
@@ -323,7 +323,7 @@ im "research ecosystem"
 ::: {.column width="30%"}
 *Nachnutzen (FDZ Bildung):*
 
-- **296** Anträge in 2022 (Videodaten) <div class="citation">(Jahresbericht 2022)</div>
+- **296** Anträge insgesamt (Videodaten) <div class="citation">(Jahresbericht 2022)</div>
 -   Erfassung über Meldung und google alerts **unterschätzt** Erfassung (deckt ca. 75% ab) [@Daniel.etal.2023]
 -   Zw. 2016-2022: **8** Publikationen und Berichte erfasst (ohne Studierende & Lehre)
 :::
@@ -410,8 +410,8 @@ https://doi.org/10.17605/OSF.IO/7FP5S
 
 \
 **Open Data**  
-Up until now on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/main/3_data/2_systematic_Review)  
-(will be zenodo)
+Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree/main/3_data/2_systematic_Review)  
+(kommt auf zenodo)
 :::
 
 ::: {.column width="37%"}
