@@ -349,7 +349,7 @@ im "research ecosystem"
     -   wissenschaftlichen Studien
     -   Positionspapieren, Leitfäden, Checklisten, Surveys
 -   Fokus auf Videodaten oder qualitativen Daten
--   Literatursuche : 1,114 Dokumente
+
 :::
 
 ::: {.column width="15%"}
@@ -525,7 +525,7 @@ __GEBF 2024__
 __GEBF 2024__
 
 - Beitrag in Symposium (Schreyer)
-- _Hilfreiche Ressourcen und Arbeitsschritte für die Bereitstellung oder Nachnutzung von Unterrichtsvideos_
+- _"Hilfreiche Ressourcen und Arbeitsschritte für die Bereitstellung oder Nachnutzung von Unterrichtsvideos"_
 :::
 
 ::: {.column width="5%"}
@@ -539,6 +539,13 @@ __Datenakquise__
 * Erweiterung des Angebots auf FDZ Bildung
 * Kontakt zu mehreren Projekten läuft schleppend
 
+\
+\
+
+__EARLI SIG 4/17 2024__
+
+- Beitrag "Collaborative space"
+- _"Promoting Open Science in Learning Research: Collaborative Exploration of Future Directions"_
 :::
 ::::
 
