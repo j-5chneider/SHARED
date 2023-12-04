@@ -111,34 +111,6 @@ Depending on the research interest, e.g.
 :::
 
 
-## Why is video data powerful?
-
-::: columns
-::: {.column width="47%"}
-**1. direct observation**  
-grants insights into processes and practices of learning and instruction  
-\
-
-**2. allows for nuanced evaluations**  
-repeating or manipulating (vs. in situ observation)
-:::
-::: {.column width="6%"}
-:::
-::: {.column width="47%"}
-**3. high degree of richness/complexity**  
-
-* spoken word, intonation, modulation
-* facial expressions, gestures, postures
-* positioning and orientation in the room
-* temporal sequence and simultaneity of events
-* ...
-:::
-:::
-
-
-BEISPIELHAFTE UNTERSUCHUNGEN
-
-
 
 ## Why is video data powerful?
 
@@ -149,11 +121,9 @@ grants insights into processes and practices of learning and instruction
 \
 
 **2. allows for nuanced evaluations**  
-repeating or manipulating (vs. in situ observation)
-:::
-::: {.column width="6%"}
-:::
-::: {.column width="47%"}
+repeating or manipulating (vs. in situ observation)  
+\
+
 **3. high degree of richness/complexity**  
 
 * spoken word, intonation, modulation
@@ -161,30 +131,151 @@ repeating or manipulating (vs. in situ observation)
 * positioning and orientation in the room
 * temporal sequence and simultaneity of events
 * ...
+
+[@Lahn.Klette.2023; @Derry.etal.2010]
+:::
+::: {.column width="6%"}
+:::
+::: {.column width="47%"}
 :::
 :::
 
-\
+
+
+## Why is video data powerful?
 
 ::: columns
-::: {.column width="80%" .highlight}
-`r fontawesome::fa("thumbs-up", fill="#f9f9f9", height="2em", width="2em")` 
+::: {.column width="47%"}
+**1. direct observation**  
+grants insights into processes and practices of learning and instruction  
+\
+
+**2. allows for nuanced evaluations**  
+repeating or manipulating (vs. in situ observation)  
+\
+
+**3. high degree of richness/complexity**  
+
+* spoken word, intonation, modulation
+* facial expressions, gestures, postures
+* positioning and orientation in the room
+* temporal sequence and simultaneity of events
+* ...
+
+[@Lahn.Klette.2023; @Derry.etal.2010]
+:::
+::: {.column width="6%"}
+:::
+::: {.column width="47%"}
+<span class="highlight-text">Major contributions</span>
+
+* theory of teaching and learning
+* new perspectives in teaching research
+
+TIMSS-Video [@Stigler.etal.2000]  
+IPN-Video Study [@Seidel.etal.2006]  
+Pythagoras-Study [@Klieme.etal.2009]  
+PERLE-Study [@Lipowsky.etal.2014]  
+DESI-Study [@DESI-Konsortium.2008]  
+IGEL-Study [@Fauth.etal.2014a]  
+TALIS-Video Study [@Gruenkorn.etal.2020]
+
+:::
+:::
+
+
+
+::: {.notes}
+contributions e.g., what makes successful teaching?
+:::
+
+
+## Why is video data powerful?
+
+::: columns
+::: {.column width="47%"}
+**1. direct observation**  
+grants insights into processes and practices of learning and instruction  
+\
+
+**2. allows for nuanced evaluations**  
+repeating or manipulating (vs. in situ observation)  
+\
+
+**3. high degree of richness/complexity**  
+
+* spoken word, intonation, modulation
+* facial expressions, gestures, postures
+* positioning and orientation in the room
+* temporal sequence and simultaneity of events
+* ...
+
+[@Lahn.Klette.2023; @Derry.etal.2010]
+:::
+::: {.column width="6%"}
+:::
+::: {.column width="47%"}
+
+::: columns
+::: {.column width="90%" .highlight}
+`r fontawesome::fa("thumbs-up", fill="#f9f9f9", height="2.5em", width="2.5em")`  
 video predestined for *multiple analyses* from different perspectives
 :::
 :::
 \
 
 ::: columns
-::: {.column width="80%" .highlight}
-`r fontawesome::fa("triangle-exclamation", fill="#f9f9f9", height="2em", width="2em")` 
+::: {.column width="90%" .highlight}
+`r fontawesome::fa("triangle-exclamation", fill="#f9f9f9", height="2em", width="2em")`  
 *high cost:* producing quality video data heavily taxes financial, personal and time resources
 :::
 :::
+
+:::
+:::
+
+
 
 ::: {.notes}
 high cost = high value of quality video data
 :::
 
+
+## ShaReD
+
+::: columns
+::: {.column width="50%"}
+![](www/fair.jpg){width="100%"}
+:::
+::: {.column width="45%"}
+:::
+:::
+
+::: {.notes}
+Against this background, the promotion of video data sharing is particularly justified
+:::
+
+## ShaReD
+
+**Findable**  
+![](www/fair1.jpg){width="100%"}
+
+
+## ShaReD
+**Findable**  
+![](www/fair2.jpg){width="100%"}
+
+## ShaReD
+**Accessible**  
+![](www/fair3.jpg){width="100%"}
+
+## ShaReD
+**Interoperable**  
+![](www/fair4.jpg){width="100%"}
+
+## ShaReD
+**Reusable**  
+![](www/fair5.jpg){width="100%"}
 
 
 ## [Arbeitsbereiche]{.splash-slide-text} {.center}
@@ -195,36 +286,36 @@ high cost = high value of quality video data
 
 ::: columns
 ::: {.column .active-box}
-**SONDIERUNG**
+**SCREENING**
 
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es? <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- Possibilities & limits in the ecosystem<br /><br />
+- Cooperation with similar projects
 :::
 
 ::: {.column .inactive-box}
-**ENTWICKLUNG**
+**DEVELOPMENT**
 
--   Maßnahmen zur Weiterentwicklung des Ökosystems<br /><br />
--   Verbreiterung des Angebots<br /><br />
--   Erstellung von Richtlinien, Handreichungen, Schulungen
+- Measures for further development of the ecosystem<br /><br />
+- Expanding the availability of videos<br /><br />
+- Creation of guidelines, handouts, training courses
 :::
 
 ::: {.column .inactive-box}
-**ERPROBUNG**
+**TESTING**
 
--   Nutzungsstudien & Evaluation<br /><br />
--   Durchführung erster Schulungen mit Evaluation<br /><br />
--   Vorstellung des Konzepts auf Fachtagungen<br /><br />
--   Entwicklung von Disseminationsstrategien
+- User studies & evaluation<br /><br />
+- Implementation of first training courses with evaluation<br /><br />
+- Presentation of the concept at conferences<br /><br />
+- Development of dissemination strategies
 :::
 
 ::: {.column .inactive-box}
-**VERSTETIGUNG**
+**SUSTAINABILITY**
 
--   Material zur Durchführung für Schulungen<br /><br />
--   Material zur Gewinnung von Videos
+- Materials for the implementation of training courses<br /><br />
+- Materials for the production of videos
 :::
 :::
 
@@ -232,36 +323,36 @@ high cost = high value of quality video data
 
 ::: columns
 ::: {.column .inactive-box}
-**SONDIERUNG**
+**SCREENING**
 
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es? <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- Possibilities & limits in the ecosystem<br /><br />
+- Cooperation with similar projects
 :::
 
 ::: {.column .active-box}
-**ENTWICKLUNG**
+**DEVELOPMENT**
 
--   Maßnahmen zur Weiterentwicklung des Ökosystems<br /><br />
--   Verbreiterung des Angebots<br /><br />
--   Erstellung von Richtlinien, Handreichungen, Schulungen
+- Measures for further development of the ecosystem<br /><br />
+- Expanding the availability of videos<br /><br />
+- Creation of guidelines, handouts, training courses
 :::
 
 ::: {.column .inactive-box}
-**ERPROBUNG**
+**TESTING**
 
--   Nutzungsstudien & Evaluation<br /><br />
--   Durchführung erster Schulungen mit Evaluation<br /><br />
--   Vorstellung des Konzepts auf Fachtagungen<br /><br />
--   Entwicklung von Disseminationsstrategien
+- User studies & evaluation<br /><br />
+- Implementation of first training courses with evaluation<br /><br />
+- Presentation of the concept at conferences<br /><br />
+- Development of dissemination strategies
 :::
 
 ::: {.column .inactive-box}
-**VERSTETIGUNG**
+**SUSTAINABILITY**
 
--   Material zur Durchführung für Schulungen<br /><br />
--   Material zur Gewinnung von Videos
+- Materials for the implementation of training courses<br /><br />
+- Materials for the production of videos
 :::
 :::
 
@@ -269,36 +360,36 @@ high cost = high value of quality video data
 
 ::: columns
 ::: {.column .inactive-box}
-**SONDIERUNG**
+**SCREENING**
 
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es? <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- Possibilities & limits in the ecosystem<br /><br />
+- Cooperation with similar projects
 :::
 
 ::: {.column .inactive-box}
-**ENTWICKLUNG**
+**DEVELOPMENT**
 
--   Maßnahmen zur Weiterentwicklung des Ökosystems<br /><br />
--   Verbreiterung des Angebots<br /><br />
--   Erstellung von Richtlinien, Handreichungen, Schulungen
+- Measures for further development of the ecosystem<br /><br />
+- Expanding the availability of videos<br /><br />
+- Creation of guidelines, handouts, training courses
 :::
 
 ::: {.column .active-box}
-**ERPROBUNG**
+**TESTING**
 
--   Nutzungsstudien & Evaluation<br /><br />
--   Durchführung erster Schulungen mit Evaluation<br /><br />
--   Vorstellung des Konzepts auf Fachtagungen<br /><br />
--   Entwicklung von Disseminationsstrategien
+- User studies & evaluation<br /><br />
+- Implementation of first training courses with evaluation<br /><br />
+- Presentation of the concept at conferences<br /><br />
+- Development of dissemination strategies
 :::
 
 ::: {.column .inactive-box}
-**VERSTETIGUNG**
+**SUSTAINABILITY**
 
--   Material zur Durchführung für Schulungen<br /><br />
--   Material zur Gewinnung von Videos
+- Materials for the implementation of training courses<br /><br />
+- Materials for the production of videos
 :::
 :::
 
@@ -306,40 +397,40 @@ high cost = high value of quality video data
 
 ::: columns
 ::: {.column .inactive-box}
-**SONDIERUNG**
+**SCREENING**
 
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es? <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- Possibilities & limits in the ecosystem<br /><br />
+- Cooperation with similar projects
 :::
 
 ::: {.column .inactive-box}
-**ENTWICKLUNG**
+**DEVELOPMENT**
 
--   Maßnahmen zur Weiterentwicklung des Ökosystems<br /><br />
--   Verbreiterung des Angebots<br /><br />
--   Erstellung von Richtlinien, Handreichungen, Schulungen
+- Measures for further development of the ecosystem<br /><br />
+- Expanding the availability of videos<br /><br />
+- Creation of guidelines, handouts, training courses
 :::
 
 ::: {.column .inactive-box}
-**ERPROBUNG**
+**TESTING**
 
--   Nutzungsstudien & Evaluation<br /><br />
--   Durchführung erster Schulungen mit Evaluation<br /><br />
--   Vorstellung des Konzepts auf Fachtagungen<br /><br />
--   Entwicklung von Disseminationsstrategien
+- User studies & evaluation<br /><br />
+- Implementation of first training courses with evaluation<br /><br />
+- Presentation of the concept at conferences<br /><br />
+- Development of dissemination strategies
 :::
 
 ::: {.column .active-box}
-**VERSTETIGUNG**
+**SUSTAINABILITY**
 
--   Material zur Durchführung für Schulungen<br /><br />
--   Material zur Gewinnung von Videos
+- Materials for the implementation of training courses<br /><br />
+- Materials for the production of videos
 :::
 :::
 
-## [Aktuelle Projekte]{.splash-slide-text} {.center}
+## [Current projects]{.splash-slide-text} {.center}
 
 
 
@@ -350,7 +441,7 @@ high cost = high value of quality video data
 \
 \
 
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+> Which factors contribute to classroom videos being shared or reused?
 
 
 ## Barriers and facilitators to sharing and reusing
@@ -358,17 +449,17 @@ high cost = high value of quality video data
 \
 \
 
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+> Which factors contribute to classroom videos being shared or reused?
 
 \
 \
 
 ::: columns
 ::: {.column width="30%"}
-*Teilen:*
+*Sharing:*
 
--   **36** Publikationen zur Analyse von Unterrichtsvideos in 2022<br /><br />
--   in **13** findet sich ein "data statement" (alle in Journals mit entsprechender Verpflichtung)
+- **36** publications on the analysis of instructional videos in 2022<br /><br />
+- in **13** there is a "data statement" (all in journals with a corresponding commitment)
 :::
 
 ::: {.column width="5%"}
@@ -377,8 +468,8 @@ high cost = high value of quality video data
 ::: {.column width="30%"}
 <br />
 
--   in **0** findet sich ein "data statement", wenn dies vom Journal **nicht verpflichtend** ist<br /><br />
--   Unterrichtsvideos aus **1** Publikation wurden geteilt (eigene Webseite, nicht FDZ)
+- in **0** there is a "data statement" if this is **not mandatory** by the journal<br /><br />
+- classroom videos from **1** publication were shared (own website, not RDC)
 :::
 
 ::: {.column width="5%"}
@@ -394,17 +485,17 @@ high cost = high value of quality video data
 \
 \
 
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+> Which factors contribute to classroom videos being shared or reused?
 
 \
 \
 
 ::: columns
 ::: {.column width="30%"}
-*Teilen:*
+*Sharing:*
 
--   **36** Publikationen zur Analyse von Unterrichtsvideos in 2022<br /><br />
--   in **13** findet sich ein "data statement" (alle in Journals mit entsprechender Verpflichtung)
+- **36** publications on the analysis of instructional videos in 2022<br /><br />
+- in **13** there is a "data statement" (all in journals with a corresponding commitment)
 :::
 
 ::: {.column width="5%"}
@@ -413,19 +504,19 @@ high cost = high value of quality video data
 ::: {.column width="30%"}
 <br />
 
--   in **0** findet sich ein "data statement", wenn dies vom Journal **nicht verpflichtend** ist<br /><br />
--   Unterrichtsvideos aus **1** Publikation wurden geteilt (eigene Webseite, nicht FDZ)
+- in **0** there is a "data statement" if this is **not mandatory** by the journal<br /><br />
+- classroom videos from **1** publication were shared (own website, not RDC)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-*Nachnutzen (FDZ Bildung):*
+*Reuse (FDZ Bildung):*
 
-- **296** Anträge insgesamt (Videodaten) <div class="citation">(Jahresbericht 2022)</div>
--   Erfassung über Meldung und google alerts **unterschätzt** Erfassung (deckt ca. 75% ab) [@Daniel.etal.2023]
--   Zw. 2016-2022: **8** Publikationen und Berichte erfasst (ohne Studierende & Lehre)
+- **296** total applications (video data) <div class="citation">(annual report 2022)</div>
+- Coverage via reporting and google alerts **underestimates** coverage (covers approx. 75%) [@Daniel.etal.2023]
+- Between 2016-2022: **8** publications and reports recorded (excluding students & teaching)
 :::
 :::
 
@@ -435,7 +526,7 @@ high cost = high value of quality video data
 \
 \
 
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+> Which factors contribute to classroom videos being shared or reused?
 
 \
 \
@@ -445,10 +536,10 @@ high cost = high value of quality video data
 **Systematic Review**\
 *(top-down)*
 
--   Suche nach
-    -   wissenschaftlichen Studien
-    -   Positionspapieren, Leitfäden, Checklisten, Surveys
--   Fokus auf Videodaten oder qualitativen Daten
+- Search for
+    - scientific studies
+    - Position papers, guidelines, checklists, surveys
+- Focus on video data or qualitative data
 
 :::
 
@@ -465,7 +556,7 @@ high cost = high value of quality video data
 \
 \
 
-> Welche Faktoren tragen dazu bei, dass Unterrichtsvideos geteilt oder nachgenutzt werden?
+> Which factors contribute to classroom videos being shared or reused?
 
 \
 \
@@ -475,10 +566,10 @@ high cost = high value of quality video data
 **Systematic Review**\
 *(top-down)*
 
--   Suche nach
-    -   wissenschaftlichen Studien
-    -   Positionspapieren, Leitfäden, Checklisten, Surveys
--   Fokus auf Videodaten oder qualitativen Daten
+- Search for
+    - scientific studies
+    - Position papers, guidelines, checklists, surveys
+- Focus on video data or qualitative data
 
 :::
 
@@ -486,14 +577,14 @@ high cost = high value of quality video data
 :::
 
 ::: {.column width="40%"}
-**Delphi-Studie**\
+**Delphi-Study**\
 *(bottom-up)*
 
-- Expert*innen:
-  - Mitarbeitende FDZ
-  - (nicht-) Nachnutzende, (nicht-) Bereitstellende
+- Experts:
+  - FDZ employees
+  - (Non-) reusers, (non-) providers
   - ...
-- Ergänzen und bewerten Faktoren
+- Complement and evaluate factors
 :::
 ::::
 
@@ -510,8 +601,8 @@ https://doi.org/10.17605/OSF.IO/7FP5S
 
 \
 **Open Data**  
-Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree/main/3_data/2_systematic_Review)  
-(kommt auf zenodo)
+So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/main/3_data/2_systematic_Review)  
+(will be zenodo)
 :::
 
 ::: {.column width="37%"}
@@ -524,27 +615,27 @@ Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree
 
 ::: columns
 ::: {.column .active-box}
-**SONDIERUNG**
+**SCREENING**
 
--   Welches Angebot an Videos gibt es?<br /><br />
--   Welche Ressourcen gibt es?<br /><br />
--   [Möglichkeiten & Grenzen im Ökosystem]{.active-text}<br /><br />
--   Kooperation zu ähnlichen Projekten
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- [Possibilities & limits in the ecosystem]{.active-text} <br /><br />
+- Cooperation with similar projects
 :::
 :::
 
 ![](www/model.jpg){.absolute top="100" left="50%" width="550"}
 
 
-## Leitfaden und Ressourcen für Forschende
+## Guideline and resources for researchers
 
 \
 \
 
 :::: columns
 ::: {.column width="55%"}
-> Was sind Arbeitsschritte der Bereitstellung / Nachnutzung?  
-> Welche Ressourcen erleichtern diese Arbeitsschritte?
+> What are the steps involved in sharing/ reuse?  
+> Which resources facilitate these steps?
 
 :::
 ::: {.column width="45%"}
@@ -552,24 +643,24 @@ Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree
 ::::
 
 
-## Leitfaden und Ressourcen für Forschende
+## Guideline and resources for researchers
 
 \
 \
 
 :::: columns
 ::: {.column width="55%"}
-> Was sind Arbeitsschritte der Bereitstellung / Nachnutzung?  
-> Welche Ressourcen erleichtern diese Arbeitsschritte?
+> What are the steps involved in sharing/ reuse?  
+> Which resources facilitate these steps?
 
 \
 
-**Konzeptuelles Manuskript**\
-*(eingereicht)*
+**Conceptual manuscript**\
+*(submitted)*
 
-- Zeigt typische Arbeitsschritte der Bereitstellung und Nachnutzung
-- Blendet unspezifische Arbeitsschritte bewusst aus (z.B. Datenauswertung)
-- Koautor*innen: Schreyer, Kunter, Porzelt
+- Shows typical work steps of provision and subsequent use
+- Deliberately skips unspecific work steps (e.g. data analysis)
+- Co-authors: Schreyer, Kunter, Porzelt
 :::
 
 ::: {.column width="45%"}
@@ -578,16 +669,16 @@ Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree
 ::::
 
 
-## Leitfaden und Ressourcen für Forschende
+## Guideline and resources for researchers
 
 :::: columns
 ::: {.column .active-box}
-**SONDIERUNG**
+**SCREENING**
 
--   [Welches Angebot an Videos gibt es?]{.active-text}<br /><br />
--   [Welche Ressourcen gibt es?]{.active-text} <br /><br />
--   Möglichkeiten & Grenzen im Ökosystem<br /><br />
--   Kooperation zu ähnlichen Projekten
+- [Which videos are available?]{.active-text}<br /><br />
+- [Which resources are available?]{.active-text} <br /><br />
+- Possibilities & limits in the ecosystem <br /><br />
+- Cooperation with similar projects
 :::
 ::::
 
@@ -595,16 +686,16 @@ Bis jetzt auf dem [github repo](https://github.com/j-5chneider/ShaReD-video/tree
 
 
 
-## Weiteres
+## Further aspects
 
 :::: columns
 ::: {.column width="30%"}
 \
 
-__Podcastbeitrag__  
+__Podcast episode__  
   
 ![](www/datenliebe.jpg){width="100%"}  
-_Folge zu Unterrichtsvideos_ 
+_Episode on classroom videos_ 
 [`r fa("youtube")`](https://www.youtube.com/watch?v=DWbDwhRkmNE) [`r fa("spotify")`](https://open.spotify.com/episode/7cFOS7o8v6S2edcJ9X69EN?si=_rqbo5pWSoe0jzCIQDQOQw)  
 
 :::
@@ -617,14 +708,7 @@ _Folge zu Unterrichtsvideos_
 
 __GEBF 2024__
 
-- Beitrag "Offenes Format"
-- _"Hier  finden Sie Unterrichtsvideos für Ihre Studie: 4 Anlaufstellen und ihre mehr als 2.800 Videos zur Nachnutzung"_
-
-\
-
-__GEBF 2024__
-
-- Beitrag in Symposium (Schreyer)
+- Contribution to symposium (Schreyer)
 - _"Hilfreiche Ressourcen und Arbeitsschritte für die Bereitstellung oder Nachnutzung von Unterrichtsvideos"_
 :::
 
@@ -634,17 +718,17 @@ __GEBF 2024__
 ::: {.column width="30%"}
 \
 
-__Datenakquise__
+__Data acquisition__
 
-* Erweiterung des Angebots auf FDZ Bildung
-* Kontakt zu mehreren Projekten läuft schleppend
+* Extension of the offer to FDZ Education
+* Contact with several projects is slow
 
 \
 \
 
 __EARLI SIG 4/17 2024__
 
-- Beitrag "Collaborative space"
+- Contribution "Collaborative space"
 - _"Promoting Open Science in Learning Research: Collaborative Exploration of Future Directions"_
 :::
 ::::
@@ -652,16 +736,16 @@ __EARLI SIG 4/17 2024__
 
 
 
-## [Nächste Schritte]{.splash-slide-text} {.center}
+## [Next steps]{.splash-slide-text} {.center}
 
 
 
-## Nächste Schritte
+## Next steps
 \
 \
 
-* Handreichung zu "Archivieren oder Bereitstellen?"<br /><br /><br /><br />
-* Pilotprojekte: Automatisierte Auswertung von Unterrichtsvideos
+* Guideline on "Repository or research data center?"<br /><br /><br /><br />
+* pilot projects: Automated evaluation of classroom videos
 
 
 ## References
