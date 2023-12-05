@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE,
                       warning=FALSE)
 ### DOWNLOAD NEWEST SOURCES
 # download.file("https://drive.google.com/uc?export=download&id=1ASV99YHMHSNChSNzqbZwvz2SiqYvmqO_", # befindet sich im DIPF Ordner
-#               "www/references.bib", overwrite = T)
+              # "www/references.bib", overwrite = T)
 
 
 library(fontawesome)
@@ -41,35 +41,26 @@ library(fontawesome)
 
 
 
-## Überblick
-\
-\
-\
-
--   Ziele<br /><br />
--   Arbeitsbereiche<br /><br />
--   Aktuelle Projekte<br /><br />
--   nächste Schritte
-
-
-
-    Was sind Videodaten
-    Warum sind sie wichtig
-    Beispielstudien
-    Warum ist es wichtig sie zu teilen
-    Was bedeutet FAIR für Videodaten?
-    2 Beispiele aus Arbeitsschritten: Archivierung; Einverständniserklärungen
-
-
 
 ## What is video data in education?
 
 * audiovisual recordings 
 * captured within educational settings (primarily classrooms)
-* for the purpose of conducting scientific research
+* for the purpose of conducting scientific research [@Corti.2000; @Andersson.Sorvik.2013]
 
 ![](www/classroom.jpg){width=100%}  
 <span class="citation">shiksastudio on youtube</span>
+
+::: {.notes}
+
+* What are we talking about when it comes to "video data" in education?
+* ...
+* ...
+* This could onclude videos of counseling sessions with school psychologists or parent-teacher talks
+* for us, and for the purpose of this presentation, this mainly refers to **classroom videos**
+
+:::
+
 
 ## What is video data in education?
 
@@ -86,6 +77,16 @@ library(fontawesome)
 [@Troll.etal.2023]
 :::
 :::
+
+::: {.notes}
+
+* Now the camera setup for these studies can vary considerably between studies, resulting in different numbers of videos and image content
+* on the left side you'll see a very classical setup with two cameras one focusing the teacher (filming from the back) and one focusing the students (filming from front)
+* but there are also other setups with a multitude of cameras and microphones resulting in a very different video data collection and therefore different needs when sharing data
+
+:::
+
+
 
 ## What is video data in education?
 \
@@ -107,7 +108,10 @@ Depending on the research interest, e.g.
 
 
 ::: {.notes}
-* usually not standalone
+* As you have probably suspected, these setups are designed to answer different research interests
+* And the research interest determines not only the camera setup, but also who is filmed and how often
+* So you could for example ...
+* What is more: Video data is usually not used as a standalone source. Typically you would integrate the camera perspective with, ...
 :::
 
 
@@ -120,17 +124,20 @@ Depending on the research interest, e.g.
 grants insights into processes and practices of learning and instruction  
 \
 
-**2. allows for nuanced evaluations**  
-repeating or manipulating (vs. in situ observation)  
-\
 
-**3. high degree of richness/complexity**  
+**2. high degree of richness/complexity**  
 
 * spoken word, intonation, modulation
 * facial expressions, gestures, postures
 * positioning and orientation in the room
 * temporal sequence and simultaneity of events
 * ...
+
+  
+
+**3. allows for nuanced evaluations**  
+repeating or manipulating (vs. in situ observation)  
+  
 
 [@Lahn.Klette.2023; @Derry.etal.2010]
 :::
@@ -141,6 +148,14 @@ repeating or manipulating (vs. in situ observation)
 :::
 
 
+::: {.notes}
+* So why am I advocating for video data in general? The answer from research on teaching and teacher quality would be: Because it is a powerful data source to investigate learning.
+* it **complements** product oriented measures (such as assessments) and allows us to **actually observe** processes and practices of learning while it happens
+* it transports a high degree of richness, by making it able to observe what is said and what is done **in which way**, but also what is NOT said
+* and compared to "in situ" observation, video obviously is at an advantage, because it allows us to pay detailed attention to a multitude of these aspects within the complex interactions in the classroom
+
+:::
+
 
 ## Why is video data powerful?
 
@@ -150,17 +165,20 @@ repeating or manipulating (vs. in situ observation)
 grants insights into processes and practices of learning and instruction  
 \
 
-**2. allows for nuanced evaluations**  
-repeating or manipulating (vs. in situ observation)  
-\
 
-**3. high degree of richness/complexity**  
+**2. high degree of richness/complexity**  
 
 * spoken word, intonation, modulation
 * facial expressions, gestures, postures
 * positioning and orientation in the room
 * temporal sequence and simultaneity of events
 * ...
+
+  
+
+**3. allows for nuanced evaluations**  
+repeating or manipulating (vs. in situ observation)  
+  
 
 [@Lahn.Klette.2023; @Derry.etal.2010]
 :::
@@ -186,7 +204,9 @@ TALIS-Video Study [@Gruenkorn.etal.2020]
 
 
 ::: {.notes}
-contributions e.g., what makes successful teaching?
+* For this reason, video studies have made essential contributions to ...  
+* One of the main focus areas of video studies so far was for example: What makes successful teaching?  
+* And on this slide I just listed some of the most impactful studies on this topic using video data, that involve German-speaking classrooms
 :::
 
 
@@ -198,17 +218,20 @@ contributions e.g., what makes successful teaching?
 grants insights into processes and practices of learning and instruction  
 \
 
-**2. allows for nuanced evaluations**  
-repeating or manipulating (vs. in situ observation)  
-\
 
-**3. high degree of richness/complexity**  
+**2. high degree of richness/complexity**  
 
 * spoken word, intonation, modulation
 * facial expressions, gestures, postures
 * positioning and orientation in the room
 * temporal sequence and simultaneity of events
 * ...
+
+  
+
+**3. allows for nuanced evaluations**  
+repeating or manipulating (vs. in situ observation)  
+  
 
 [@Lahn.Klette.2023; @Derry.etal.2010]
 :::
@@ -219,7 +242,7 @@ repeating or manipulating (vs. in situ observation)
 ::: columns
 ::: {.column width="90%" .highlight}
 `r fontawesome::fa("thumbs-up", fill="#f9f9f9", height="2.5em", width="2.5em")`  
-video predestined for *multiple analyses* from different perspectives
+video predestined for *multiple analyses* from different perspectives/ research paradigms
 :::
 :::
 \
@@ -237,7 +260,9 @@ video predestined for *multiple analyses* from different perspectives
 
 
 ::: {.notes}
-high cost = high value of quality video data
+* So to sum up: ...
+* On the flip side, producing quality video data will heavily tax resources within a project
+* But once a research group has achieved high-quality video data, this makes it all the more valuable for the research community
 :::
 
 
@@ -252,13 +277,18 @@ high cost = high value of quality video data
 :::
 
 ::: {.notes}
-Against this background, the promotion of video data sharing is particularly justified
+* Against this background, investigating how to best share quality video data for reuse is particularly desirable
+* As we saw before: There are standards for data sharing: If we want to optimize data sharing for reuse, making data FAIR is a central framework to follow
 :::
 
 ## ShaReD
 
 **Findable**  
 ![](www/fair1.jpg){width="100%"}
+
+::: {.notes}
+* How do we make video data FAIR?
+:::
 
 
 ## ShaReD
@@ -278,11 +308,11 @@ Against this background, the promotion of video data sharing is particularly jus
 ![](www/fair5.jpg){width="100%"}
 
 
-## [Arbeitsbereiche]{.splash-slide-text} {.center}
+## [Project phases & focus areas]{.splash-slide-text} {.center}
 
 
 
-## Arbeitsbereiche
+## Project phases & focus areas
 
 ::: columns
 ::: {.column .active-box}
@@ -319,7 +349,7 @@ Against this background, the promotion of video data sharing is particularly jus
 :::
 :::
 
-## Arbeitsbereiche
+## Project phases & focus areas
 
 ::: columns
 ::: {.column .inactive-box}
@@ -356,7 +386,7 @@ Against this background, the promotion of video data sharing is particularly jus
 :::
 :::
 
-## Arbeitsbereiche
+## Project phases & focus areas
 
 ::: columns
 ::: {.column .inactive-box}
@@ -393,7 +423,7 @@ Against this background, the promotion of video data sharing is particularly jus
 :::
 :::
 
-## Arbeitsbereiche
+## Project phases & focus areas
 
 ::: columns
 ::: {.column .inactive-box}
@@ -658,8 +688,8 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 **Conceptual manuscript**\
 *(submitted)*
 
-- Shows typical work steps of provision and subsequent use
-- Deliberately skips unspecific work steps (e.g. data analysis)
+- Shows typical steps of sharing and reuse
+- Deliberately skips unspecific steps (e.g. data analysis)
 - Co-authors: Schreyer, Kunter, Porzelt
 :::
 
@@ -667,6 +697,70 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 ![](www/process.jpg){width="100%"}
 :::
 ::::
+
+
+## Guideline and resources for researchers
+
+\
+\
+
+:::: columns
+::: {.column width="55%"}
+> What are the steps involved in sharing/ reuse?  
+> Which resources facilitate these steps?
+
+\
+
+**Example: Informed Consent**\
+
+- classroom videos are necessarily personal data
+- need to specify the purpose, also those of future reuse
+- anticipation of reuse typically not possible
+
+:::
+
+::: {.column width="45%"}
+:::
+::::
+
+
+
+
+
+## Guideline and resources for researchers
+
+\
+\
+
+:::: columns
+::: {.column width="55%"}
+> What are the steps involved in sharing/ reuse?  
+> Which resources facilitate these steps?
+
+\
+
+**Example: Informed Consent**\
+
+- classroom videos are necessarily personal data
+- need to specify the purpose, also those of future reuse
+- anticipation of reuse typically not possible
+
+:::
+
+::: {.column width="43%" .highlight-bright}
+[Resources]{.highlight}  
+
+* broad consent: <br />*"The videos collected in this study are used by other researchers for research into teaching quality."*<br /><br />
+* [Checklist of legally sound consents](https://doi.org/10.25656/01:22297) (VerbundFDB, 2019)
+* [Template informed consent](https://doi.org/10.25656/01:22301), standard language (VerbundFDB, 2019)
+* [Template informed consent](https://doi.org/10.25656/01:22302), easy language (VerbundFDB, 2019)
+* [Explanations & template](https://zwpd.transmit.de/images/zwpd/dienstleistungen/ethikkommission/0.1a_datenschutzrechtliche_empfehlungen_einwilligungforschungsvorhaben.pdf) (DGPs)
+
+:::
+::::
+
+
+
 
 
 ## Guideline and resources for researchers
