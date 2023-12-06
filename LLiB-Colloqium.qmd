@@ -56,7 +56,7 @@ library(fontawesome)
 * What are we talking about when it comes to "video data" in education?
 * ...
 * ...
-* This could onclude videos of counseling sessions with school psychologists or parent-teacher talks
+* This could include videos of counseling sessions with school psychologists or parent-teacher talks
 * for us, and for the purpose of this presentation, this mainly refers to **classroom videos**
 
 :::
@@ -288,6 +288,12 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 ::: {.notes}
 * How do we make video data FAIR?
+* Compared to log data, we already have a pretty good idea of which recommendations can be made and which standards and templates can be used.
+* These are not equally detailed for all areas, but there are usually at least initial approaches
+* For example: If you want to make your classroom videos findable for reuse, the ideal option would be to provide it to a RDC.
+* You would provide your videos in a package together with several other documents, such as a description of the camera setup and the context of the study.
+* The RDC will also ask you to provide metadata about your videos. Metadata are descriptions about what others would be able to find in your data. For example "grade level", "school subject", "angle of the camera", ...
+
 :::
 
 
@@ -295,21 +301,52 @@ video predestined for *multiple analyses* from different perspectives/ research 
 **Findable**  
 ![](www/fair2.jpg){width="100%"}
 
+::: {.notes}
+* RDCs then offer a user interface where people interested in reusing video data can search for suitable videos
+* Looking through every video would be way too time consuming
+* So RDC need the metadata, descriptions of the videos, to make the data searchable and therefore findable
+:::
+
 ## ShaReD
 **Accessible**  
 ![](www/fair3.jpg){width="100%"}
+
+::: {.notes}
+* Are videos usually directly accessible for the public?
+* Usually no. But what makes video data fair is to clearly state under which conditions interested people may reuse the data.
+* For many classroom videos, this condition is the use of the videos for research purposes paired with a certain qualification level (PhD student)
+:::
+
 
 ## ShaReD
 **Interoperable**  
 ![](www/fair4.jpg){width="100%"}
 
+::: {.notes}
+* Making video data interoperable, meaning others can open and manipulate the file, can be achieved by adhering to certain file format conventions
+* these are usually defined by the RDC
+:::
+
 ## ShaReD
 **Reusable**  
 ![](www/fair5.jpg){width="100%"}
 
+::: {.notes}
+* So researchers *found* your data, they were able to *access* and *open* it.
+* But they can only meaningfully reuse the video data if they understand what the context of the data collection is
+* The interpretation of video data may depend, for example, on whether the usual teacher delivered the lesson or whether a teacher was randomly assigned for the study
+* So if researchers provide a methods report, for example simply by linking it to a journal paper 
+* and if they additionally provide a short field report that, for example specifies the camera setup
+* there are good conditions for reuse.
+:::
+
 
 ## [Project phases & focus areas]{.splash-slide-text} {.center}
 
+::: {.notes}
+* But, we wouldn't be doing a project on sharing and reusing research data, if there are no challenges
+* The takeup of sharing as well as reusing classroom videos is somewhat slow, I will show you some numbers in a second
+:::
 
 
 ## Project phases & focus areas
@@ -320,11 +357,59 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 - Which videos are available?<br /><br />
 - Which resources are available? <br /><br />
-- Possibilities & limits in the ecosystem<br /><br />
+- Facilitators & barriers in the research ecosystem<br /><br />
 - Cooperation with similar projects
 :::
 
 ::: {.column .inactive-box}
+**DEVELOPMENT**
+
+- Measures for further development of the ecosystem<br /><br />
+- Expanding the availability of videos<br /><br />
+- Creation of guidelines, handouts, training courses
+:::
+
+::: {.column .inactive-box}
+**TESTING**
+
+- User studies & evaluation<br /><br />
+- Implementation of first training courses with evaluation<br /><br />
+- Presentation of the concept at conferences<br /><br />
+- Development of dissemination strategies
+:::
+
+::: {.column .inactive-box}
+**SUSTAINABILITY**
+
+- Materials for the implementation of training courses<br /><br />
+- Materials for the production of videos
+:::
+:::
+
+::: {.notes}
+* So over 4 project phases we investigate facilitators and barriers to sharing and reusing research data
+* and develop suitable measures to overcome certain challenges
+* I will not go through all project phases now, just maybe for a first idea:
+* in the first screening phase 
+   - we check "what is available to people who want to reuse video data?"
+   - we check which resources are available to support researchers in sharing or reusing data
+   - And more general: Where are the barriers and what are the requirements for sharing and reusing data?
+:::
+
+
+## Project phases & focus areas
+
+::: columns
+::: {.column .inactive-box}
+**SCREENING**
+
+- Which videos are available?<br /><br />
+- Which resources are available? <br /><br />
+- Facilitators & barriers in the research ecosystem<br /><br />
+- Cooperation with similar projects
+:::
+
+::: {.column .active-box}
 **DEVELOPMENT**
 
 - Measures for further development of the ecosystem<br /><br />
@@ -357,44 +442,7 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 - Which videos are available?<br /><br />
 - Which resources are available? <br /><br />
-- Possibilities & limits in the ecosystem<br /><br />
-- Cooperation with similar projects
-:::
-
-::: {.column .active-box}
-**DEVELOPMENT**
-
-- Measures for further development of the ecosystem<br /><br />
-- Expanding the availability of videos<br /><br />
-- Creation of guidelines, handouts, training courses
-:::
-
-::: {.column .inactive-box}
-**TESTING**
-
-- User studies & evaluation<br /><br />
-- Implementation of first training courses with evaluation<br /><br />
-- Presentation of the concept at conferences<br /><br />
-- Development of dissemination strategies
-:::
-
-::: {.column .inactive-box}
-**SUSTAINABILITY**
-
-- Materials for the implementation of training courses<br /><br />
-- Materials for the production of videos
-:::
-:::
-
-## Project phases & focus areas
-
-::: columns
-::: {.column .inactive-box}
-**SCREENING**
-
-- Which videos are available?<br /><br />
-- Which resources are available? <br /><br />
-- Possibilities & limits in the ecosystem<br /><br />
+- Facilitators & barriers in the research ecosystem<br /><br />
 - Cooperation with similar projects
 :::
 
@@ -431,7 +479,7 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 - Which videos are available?<br /><br />
 - Which resources are available? <br /><br />
-- Possibilities & limits in the ecosystem<br /><br />
+- Facilitators & barriers in the research ecosystem<br /><br />
 - Cooperation with similar projects
 :::
 
@@ -462,7 +510,9 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 ## [Current projects]{.splash-slide-text} {.center}
 
-
+::: {.notes}
+So in a current project we are exactly investigating this last question, on ...
+:::
 
 
 
@@ -472,6 +522,10 @@ video predestined for *multiple analyses* from different perspectives/ research 
 \
 
 > Which factors contribute to classroom videos being shared or reused?
+
+::: {.notes}
+... which factors ...
+:::
 
 
 ## Barriers and facilitators to sharing and reusing
@@ -488,7 +542,7 @@ video predestined for *multiple analyses* from different perspectives/ research 
 ::: {.column width="30%"}
 *Sharing:*
 
-- **36** publications on the analysis of instructional videos in 2022<br /><br />
+- **36** publications on the analysis of classroom videos in 2022<br /><br />
 - in **13** there is a "data statement" (all in journals with a corresponding commitment)
 :::
 
@@ -509,6 +563,16 @@ video predestined for *multiple analyses* from different perspectives/ research 
 :::
 :::
 
+::: {.notes}
+* and I promised you some numbers
+* So I looked at publications in the English language where researchers collected video data
+* and I checked for one aspect of FAIR data, that is: is it stated if the data are available for reuse and under what condition
+* out of the 36 publications I found, 13 specified this in a "data statement", all of which in journals where these were mandatory
+* there are 0 data statements in journals where this was not mandatory
+* and 1 of 36 studies made video data available 
+* (whereas this is actually not a metric I would evaluate, there could be very good reasons not to share data)
+:::
+
 
 ## Barriers and facilitators to sharing and reusing
 
@@ -524,7 +588,7 @@ video predestined for *multiple analyses* from different perspectives/ research 
 ::: {.column width="30%"}
 *Sharing:*
 
-- **36** publications on the analysis of instructional videos in 2022<br /><br />
+- **36** publications on the analysis of classroom videos in 2022<br /><br />
 - in **13** there is a "data statement" (all in journals with a corresponding commitment)
 :::
 
@@ -548,6 +612,15 @@ video predestined for *multiple analyses* from different perspectives/ research 
 - Coverage via reporting and google alerts **underestimates** coverage (covers approx. 75%) [@Daniel.etal.2023]
 - Between 2016-2022: **8** publications and reports recorded (excluding students & teaching)
 :::
+:::
+
+
+::: {.notes}
+* when it comes to reuse, we can look at some numbers of the RDC here at DIPF
+* so far there were 296 applications for reuse of video data
+* whereas so far I detected 8 (practice oriented and scientific) publications based on these data
+* again, I can't really judge if this is high or low, there are no goals of quantity set and merely looking at a number will ignore the impact and quality of publications
+* but I found it still interesting to get a first impression
 :::
 
 
@@ -580,6 +653,14 @@ video predestined for *multiple analyses* from different perspectives/ research 
 
 :::
 ::::
+
+::: {.notes}
+* So to answer the question ...
+* we adopt a top-down and bottom-up approach by
+* first conducting a systematic review searching for studies, guidelines, and so on
+* that focus on video or qualitative data concenrning this question
+:::
+
 
 ## Barriers and facilitators to sharing and reusing
 
@@ -618,6 +699,10 @@ video predestined for *multiple analyses* from different perspectives/ research 
 :::
 ::::
 
+::: {.notes}
+* and we complement this with a Delphi-Study to mutually uncover blind spots
+:::
+
 
 ## Barriers and facilitators to sharing and reusing
 
@@ -627,7 +712,7 @@ video predestined for *multiple analyses* from different perspectives/ research 
 \
 
 **Preregistration**  
-https://doi.org/10.17605/OSF.IO/7FP5S
+[doi.org/10.17605/OSF.IO/7FP5S](https://doi.org/10.17605/OSF.IO/7FP5S)
 
 \
 **Open Data**  
@@ -641,6 +726,13 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 ::::
 
 
+::: {.notes}
+* so far I have identified 1214 records from databases for the systematic review
+* I have screened these and I am currently retrieving 144 of those for full text scan
+* of course the procedure is preregistered and the current status of the data base can be viewed at github
+:::
+
+
 ## Barriers and facilitators to sharing and reusing
 
 ::: columns
@@ -649,12 +741,16 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 
 - Which videos are available?<br /><br />
 - Which resources are available? <br /><br />
-- [Possibilities & limits in the ecosystem]{.active-text} <br /><br />
+- [Facilitators & barriers in the research ecosystem]{.active-text} <br /><br />
 - Cooperation with similar projects
 :::
 :::
 
 ![](www/model.jpg){.absolute top="100" left="50%" width="550"}
+
+::: {.notes}
+* So with review and delphi-study we take a meta-perspective on the entire research ecosystem, where barriers and facilitators could be located
+:::
 
 
 ## Guideline and resources for researchers
@@ -671,6 +767,12 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 ::: {.column width="45%"}
 :::
 ::::
+
+::: {.notes}
+* A second current project deals with a challenge that has already been expressed to us a number of times
+* That is: What are necessary steps when sharing or reusing FAIR data?
+* And what are resources that might make it much more easy for researchers to realize these steps?
+:::
 
 
 ## Guideline and resources for researchers
@@ -698,6 +800,11 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 :::
 ::::
 
+::: {.notes}
+* So together with colleagues from qualitative research and the infrastructure side
+* We formulated a guideline for researchers that want to share or reuse data on necessary steps and where to find resources for these
+:::
+
 
 ## Guideline and resources for researchers
 
@@ -723,6 +830,12 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 :::
 ::::
 
+::: {.notes}
+* for example: an informed consent is mandatory when collecting video data, as these would always be personal data
+* in the consent you would have to state the purpose of the data use
+* but if you want to share the videos, you typically can't anticipate the purpose others will reuse the data for
+* so does that mean that you can't share the data?
+:::
 
 
 
@@ -759,6 +872,10 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 :::
 ::::
 
+::: {.notes}
+* a solution to this is a broad consent, where you'll explicitly state that the videos will be reused, e.g. for a certrain field of research
+* To make it easy for you, there are several templates and checklists on informed consents using this *broad consent*, making sure you are actually **allowed** to share the data
+:::
 
 
 
@@ -771,7 +888,7 @@ So far on the [github repo](https://github.com/j-5chneider/ShaReD-video/tree/mai
 
 - [Which videos are available?]{.active-text}<br /><br />
 - [Which resources are available?]{.active-text} <br /><br />
-- Possibilities & limits in the ecosystem <br /><br />
+- Facilitators & barriers in the research ecosystem <br /><br />
 - Cooperation with similar projects
 :::
 ::::
@@ -814,7 +931,7 @@ __GEBF 2024__
 
 __Data acquisition__
 
-* Extension of the offer to FDZ Education
+* Extension of the offer to FDZ Bildung
 * Contact with several projects is slow
 
 \
@@ -827,7 +944,9 @@ __EARLI SIG 4/17 2024__
 :::
 ::::
 
-
+::: {.notes}
+Here you will find some information about what else we have been working on, but I won't go into that in detail.
+:::
 
 
 ## [Next steps]{.splash-slide-text} {.center}
@@ -838,8 +957,82 @@ __EARLI SIG 4/17 2024__
 \
 \
 
-* Guideline on "Repository or research data center?"<br /><br /><br /><br />
+* Guideline on "Repository or research data center?"<br /><br /><br />
+* Expanding the availability of videos (strategy needed)<br /><br /><br />
 * pilot projects: Automated evaluation of classroom videos
+
+
+::: {.notes}
+
+* Concerning the next steps we are complementing the available resources at the RDC
+* One of the questions that is still challenging to judge for researchers is: When is my data suitable for reuse at a research data center and when does is make more sense to "only" archive data? Turns out, a guideline on this question is more challenging than I initially anticipated. For example it is hard to pin down the analysis potential of videos in order to answer this question.
+* We are also currently trying to expand the availability of classroom videos on the RDC. We do that by establishing contact with authors from video studies. This, however, is going quite slow. We need to establish a strategy, otherwise I don't see this move forward.
+* We are also considering pilot projects in the automatic analysis of video data. Like in Daniels project, we are trying to explore possibilities and examples that may inspire further research.
+
+:::
+
+
+## [Let's back up a bit]{.splash-slide-text} {.center}
+
+## Overview
+
+:::: columns
+::: {.column width="35%" .highlight-bright}
+[Log Data]{.highlight}  
+\
+
+**Current challenge**  
+No guidelines/standards on how to document Log Data to make it understandable (reusable)  
+\
+\
+
+**Current & next steps**  
+Pilot projects to explore possibilities of documentation and derive recommendations
+
+:::
+
+::: {.column width="24%"}
+![](www/fair.jpg){width=100%}  
+![](www/model.jpg){width=100%}
+:::
+
+::: {.column width="35%" .highlight-bright}
+[Video Data]{.highlight}  
+\
+
+**Current challenge**  
+Unclear what hinders and enables video data sharing  
+\
+\
+\
+
+**Current & next steps**  
+Meta-view and analysis of the research ecosystem, deriving appropriate measures  
+\
+:::
+::::
+
+::: {.notes}
+* In both projects we are working on "how to make research data FAIR"
+* What is different, is that in our respective fields there are currently different challenges laying ahead
+* For log data it is sill unclear on how we can document data so that others understand and are able to reuse
+* So Daniel for example works on pilot projects that explore possibilities for FAIR documentation and the question if we can derive more general recommendations from these
+
+---
+
+* Whereas with video data, the current challenge is to investigate where are the barriers and facilitators to video data sharing
+* we apply rather a meta-view on the research ecosystem and try to locate barriers and prerequisites
+:::
+
+
+# Thank you
+
+![](../www/dipf-logo.png){width=20%}  
+\
+
+__Jürgen Schneider__  
+ju.schneider@dipf.de  
+  
 
 
 ## References
