@@ -34,10 +34,27 @@ strong {
   font-size: 1.6em;
 }
 
-.highlight{
+.highlight {
   background-color: #f9a541; /*#F29400*/
   color: #f9f9f9;
   padding: 10px;
+  border-radius: 7px;
+}
+
+.highlight-bright {
+  background-color: #fef0df; /*#F29400*/
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.highlight-grey {
+  background-color: #f9f9f9;
+  border-radius: 7px;
+}
+
+.highlight-text {
+  color: #F29400;
+  font-weight: bold;
 }
 
 
